@@ -1,0 +1,60 @@
+/*===========================================*/
+/*	DEKSTOP
+/*===========================================*/
+@media  (min-width: 1400px) {
+.sales-funnel li {padding: 37px 0;}
+.widget-item {min-height: 390px;}
+li.regist { padding-top:0;}	
+ol.top-sale, ol.unpaid-bills, ol.top-product {padding-left: 35px;}
+}
+@media  (min-width: 1200px) {
+.widget-big-wrapp {border-top: 6px solid #070c24;}
+}
+@media  (max-width: 1400px) {
+ol.unpaid-bills {font-size:116%;}
+}
+@media  (max-width: 1371px){
+.top-sale li {font-size: 130%;}
+}
+@media  (max-width: 1350px) {
+body { font-size:21px;}
+}
+@media  (max-width: 1200px) {
+.widget-big-wrapp {min-height: 691px;}
+.widget-item {min-height: 341px;}
+.top-sale li {font-size: 115%;}
+.sales-funnel li {padding: 11% 0;}
+ol.unpaid-bills {font-size: 100%;}
+.dashboard-wrapp { height:auto;}
+ol.top-product li { font-size:140%;}	
+}
+@media  (max-width: 1050px){
+body { font-size:18px;}
+.widget-top-name h3 {padding-top:10px;}
+.top-sale li {font-size: 114%;}
+.widget-big-wrapp {min-height: 610px;}
+.widget-item {min-height: 301px;}
+}
+/*===========================================*/
+/*	TABLET
+/*===========================================*/
+@media (max-width: 991px) {
+	body { font-size:17px;}
+    .widget-top-name {height: 8%;}
+   .table-wrapp-tablet { padding-left:2px;}
+}
+
+/*===========================================*/
+/*	SMALL DEVICES
+/*===========================================*/
+@media  (max-width: 767px) {
+	body { font-size:15px;}
+    .container { width: 94%;}	
+	video{ display:none;}
+	.second-db {min-height: 1000px;
+    background:url(../content/Snapshots/Meeting-Room.jpg); background-size:cover;}
+}
+
+@media (max-width: 600px) {
+    body { font-size:14px;}
+}

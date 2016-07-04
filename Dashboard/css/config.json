@@ -1,0 +1,22 @@
+{
+  "vars": {
+    "@font-family-sans-serif": "RobotoMedium",
+    "@font-family-base": "RobotoMedium",
+    "@font-size-base": "23px",
+    "@font-size-h3": "23px",
+    "@grid-columns": "12",
+    "@grid-gutter-width": "0.3%",
+    "@container-tablet": "94%",
+    "@container-sm": "94%",
+    "@container-desktop": "94%",
+    "@container-md": "94%",
+    "@container-large-desktop": "94%",
+    "@container-lg": "94%"
+  },
+  "css": [
+    "grid.less",
+    "responsive-utilities.less"
+  ],
+  "js": [],
+  "customizerUrl": "http://getbootstrap.com/customize/?id=c8632a3acce4717c9d29f1c8617d48aa"
+}
